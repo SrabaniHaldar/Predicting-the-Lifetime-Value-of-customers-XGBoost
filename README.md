@@ -1,2 +1,2 @@
-# Predicting the Lifetime Value of customers XGBoost
+# Predicting the Lifetime Value of customers (ultimate modeling choice: XGBoost)
  
