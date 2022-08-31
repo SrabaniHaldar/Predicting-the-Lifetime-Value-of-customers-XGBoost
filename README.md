@@ -41,8 +41,6 @@ Project is: no longer being worked on. I worked on it for a couple of days for t
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
 
 
